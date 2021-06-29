@@ -1,0 +1,10 @@
+C:\Users\mbright\source\repos\football\obj\Debug\netcoreapp2.1\football.csproj.CoreCompileInputs.cache
+C:\Users\mbright\source\repos\football\obj\Debug\netcoreapp2.1\football.AssemblyInfoInputs.cache
+C:\Users\mbright\source\repos\football\obj\Debug\netcoreapp2.1\football.AssemblyInfo.cs
+C:\Users\mbright\source\repos\football\bin\Debug\netcoreapp2.1\football.deps.json
+C:\Users\mbright\source\repos\football\bin\Debug\netcoreapp2.1\football.runtimeconfig.json
+C:\Users\mbright\source\repos\football\bin\Debug\netcoreapp2.1\football.runtimeconfig.dev.json
+C:\Users\mbright\source\repos\football\bin\Debug\netcoreapp2.1\football.dll
+C:\Users\mbright\source\repos\football\bin\Debug\netcoreapp2.1\football.pdb
+C:\Users\mbright\source\repos\football\obj\Debug\netcoreapp2.1\football.dll
+C:\Users\mbright\source\repos\football\obj\Debug\netcoreapp2.1\football.pdb
